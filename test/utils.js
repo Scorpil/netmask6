@@ -1,5 +1,5 @@
-import { strict } from 'assert';
-import { groupsToBigInt, bigIntToGroups, zPadGroups } from '../src/utils';
+const { strict } = require('assert');
+const { groupsToBigInt, bigIntToGroups, zPadGroups } = require('../src/utils');
 
 const assert = strict;
 

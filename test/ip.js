@@ -1,5 +1,5 @@
-import { strict } from 'assert';
-import { IP } from '..';
+const { strict } = require('assert');
+const { IP } = require('..');
 
 const assert = strict;
 

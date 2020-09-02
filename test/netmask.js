@@ -1,5 +1,5 @@
-import { strict } from 'assert';
-import { Netmask } from '..';
+const { strict } = require('assert');
+const { Netmask } = require('..');
 
 const assert = strict;
 
