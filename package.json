@@ -1,6 +1,6 @@
 {
   "name": "netmask6",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Parse IPv4/IPv6 CIDR",
   "main": "index.js",
   "module": "main.js",
